@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavBottomApp</string>
+    <string name="open_nav">Open NavBottomApp</string>
+    <string name="close_nav">Close NavBottomApp</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+</resources>
